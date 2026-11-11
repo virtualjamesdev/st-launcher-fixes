@@ -1,0 +1,73 @@
+; ST Launcher game fixes: what is known about particular disks, found by
+; testing them (the game check). A tab between the three things on a line:
+;   run  <disk>  <program>   start this program on the disk
+;   use  <disk>  <disk 2>    this version does not work: play that one
+;
+run	Arkanoid II - Revenge of Doh (1988)(Imagine)[cr Replicants].st	A:\DOH.PRG
+use	Batman - The Movie (1989)(Ocean)[cr Replicants].st	Batman - The Movie (1989)(Ocean)[cr Atari Legend][t].st
+use	Carrier Command (1988)(Rainbird)(M3)[cr Exceptions].st	Carrier Command (1988)(Rainbird)(M3)[cr Bladerunners].st
+run	Civilization v2.59beta (1993)(MicroProse)(Disk 1 of 2)[cr Vectronix].st	A:\GAME.PRG
+run	Cubase - Desktop Midi Recording System v2.0 (1989)(Steinberg)[cr MCA].st	A:\CUBASERD.PRG
+use	Degas Elite v1.0 (1986)(Batteries Included).st	Degas Elite v1.0 (1986)(Batteries Included)[a2].st
+run	Dragon's Lair II (1990)(Ready Soft)(Disk 1 of 7)(Disk 0)[cr Replicants][t].st	A:\__MAXI__.TOS
+run	Dragon's Lair III (1992)(Ready Soft)(Disk 1 of 8)(Disk 0)[cr ICS][t].st	A:\S_INT.PRG
+run	Future Wars - Time Travellers (1989)(Delphine)(Disk 1 of 2)[cr Delight].st	A:\FUTURE.PRG
+use	Goldrunner (1987)(Microdeal)[cr 42-Crew].st	Goldrunner (1987)(Microdeal)[cr Diskbuster].st
+run	HiSoft Basic v2.10 (1992)(HiSoft)(Disk 1 of 3).st	A:\HBASIC.PRG
+run	Hyper Paint v2.0 (1990)(Atari Corp.).st	A:\PAINT.PRG
+use	IC Draw v1.41 (1994-05-15)(Dr. Bob)(SW)[Falcon only].st	IC Draw v1.42 (1994-05-18)(Dr. Bob)(SW)[Falcon only].st
+run	IC Draw v1.42 (1994-05-18)(Dr. Bob)(SW)[Falcon only].st	A:\ICDRAW.PRG
+use	International Karate (1986)(System 3)[cr].st	International Karate + (1988)(System 3)[cr Replicants][m Atariforce].st
+use	King's Quest (1986)(Sierra)[cr Cracked].st	King's Quest (1986)(Sierra)[a][one disk].st
+run	Loom (1990)(LucasFilm Games)(Disk 1 of 3)[cr Medway Boys].st	A:\LOOM.PRG
+use	Lotus Esprit Turbo Challenge (1990)(Gremlin)[cr].st	Lotus Esprit Turbo Challenge (1990)(Gremlin)[cr Replicants - ST Amigos].st
+run	Maggie Issue 02 (1990-07-04)(Maggie).zip	A:\MAGGIE.PRG
+run	Maggie Issue 03 (1990-11-19)(Maggie)(Disk 1 of 2).zip	A:\MAGGIE.PRG
+run	Maggie Issue 05 (19xx)(Maggie).zip	A:\MAGGIE.PRG
+run	Maggie Issue 07 (19xx)(Maggie).zip	A:\MAGGIE.PRG
+run	Maggie Issue 09 (1992-05-18)(Maggie).zip	A:\MAGGIE_9.PRG
+run	Maggie Issue 12 (1993-09-13)(Maggie).zip	A:\MAGGIE.PRG
+run	Maggie Issue 13 (1994-01-13)(Maggie).zip	A:\MAGGIE.PRG
+run	Maggie Issue 16 (1995-01-13)(Maggie).zip	A:\MAGGIE.PRG
+run	Maggie Issue 17 (1995-04-29)(Maggie).zip	A:\TMGTOCGL.PRG
+run	Maggie Issue 18 (1995-06-01)(Maggie).zip	A:\MAGGIE.PRG
+use	Maggie Issue 22 (1997-01-18)(Maggie).zip	Maggie Issue 22 (1997-01-18)(Maggie)[m Deus Ex].zip
+run	Maggie Issue 22 (1997-01-18)(Maggie)[m Deus Ex].zip	A:\MAGGIE.PRG
+run	Mega lo Mania (1991)(Image Works)[cr Medway Boys][t].st	A:\MEGALOMA.PRG
+run	Operation Stealth (1990)(U.S. Gold)(Disk 1 of 3)[cr Medway Boys].st	A:\STEALTH.PRG
+use	Out Run (1987)(U.S. Gold)[cr BCS].st	Out Run (1987)(U.S. Gold)[cr Axel Follet].st
+use	Police Quest II (1989-01-16)(Sierra)(Disk 1 of 2)[cr SXE].st	Police Quest II (1989-01-16)(Sierra)(Disk 1 of 3)[cr MCA][m EMT].st
+run	R-Type II (1989)(Activision)[cr Elite][t +5].st	A:\R_TYPE2.PRG
+use	Rampage (1986)(Activision)[cr Exceptions].st	Rampage (1986)(Activision).st
+use	Robocop (1989)(Ocean)[cr Medway Boys][t Blue Brothers].st	Robocop (1989)(Ocean)[cr Equinox][m Atariforce].st
+run	Robocop 3 (1991)(Ocean)(M3)(Disk 1 of 3)[cr ICS].st	A:\ROBOCOP.PRG
+run	Secret of Monkey Island, The (1991)(LucasFilm Games)(Disk 1 of 4)[cr Medway Boys].st	A:\MONKEY.PRG
+use	Silent Service (1986)(MicroProse).st	Silent Service (1986)(MicroProse).zip
+run	Sim City (1989)(Maxis)[cr Empire].st	A:\SIMCITY.PRG
+run	Space Quest - The Sarien Encounter v1.1a (1986)(Sierra)[cr Arthur Dent][m Blue Soft].st	A:\SPCQUEST.PRG
+run	Space Quest II - Vohaul's Revenge v2.0c (1987)(Sierra)[cr].st	A:\SIERRA.PRG
+use	Speedball (1988)(Image Works)[cr MCA].st	Speedball (1988)(Image Works).st
+use	Speedball 2 - Brutal Deluxe (1990)(Image Works)[cr Replicants - ST Amigos].st	Speedball 2 - Brutal Deluxe (1990)(Image Works)[cr Empire][t].st
+use	Starglider (1987)(Rainbird).st	Starglider (1987)(Rainbird)[m EMT].st
+use	Starglider 2 (1988)(Rainbird)[cr Union].st	Starglider 2 (1988)(Rainbird)[cr Union][m EMT].st
+use	STOS - The Game Creator v2.3 (1988)(Mandarin).st	STOS - The Game Creator v2.6 (19xx)(Mandarin).st
+use	Super Cars II (1991)(Gremlin)[cr].st	Super Cars II (1991)(Gremlin)[cr Replicants - ST Amigos].st
+use	Super Sprint (1986)(Electric Dreams)[cr].st	Super Sprint (1986)(Electric Dreams).st
+use	TCB Tracker (1990)(MPH)[cr].st	TCB Tracker (1990)(MPH)[cr Hemoroids].st
+run	Transbeauce II (1996-02-14)(Cybernetics)(STE)(FR)(en).st	A:\SEQUEL.TOS
+use	Ultima V - Warriors of Destiny (1988)(Origin)(Disk 1 of 2)(Boot Disk)[cr Hotline].st	Ultima V - Warriors of Destiny (1988)(Origin)(Disk 1 of 3)(Boot).st
+use	Undercover Magazine Issue 09 (1996)(TNB)[f][m Deus Ex].zip	Undercover Magazine Issue 09 (1996)(TNB)[m Deus Ex].zip
+run	Undercover Magazine Issue 09 (1996)(TNB)[m Deus Ex].zip	A:\UCM_NINE.PRG
+use	Undercover Magazine Issue 10 (19xx)(TNB)[f][m Deus Ex].zip	Undercover Magazine Issue 10 (19xx)(TNB)[m Deus Ex].zip
+run	Undercover Magazine Issue 10 (19xx)(TNB)[m Deus Ex].zip	A:\UCM.PRG
+run	Undercover Magazine Issue 12 (19xx)(TNB)[m Deus Ex].zip	A:\UCM12.PRG
+run	Undercover Magazine Issue 14 (19xx)(TNB)[m Deus Ex].zip	A:\UCM14.PRG
+run	Undercover Magazine Issue 15 (19xx)(TNB)[m Deus Ex].zip	A:\UCM_15.PRG
+run	Undercover Magazine Issue 17 (19xx)(TNB)[m Deus Ex].zip	A:\LOADER.PRG
+run	Undercover Magazine Issue 18 (19xx)(TNB)[m Deus Ex].zip	A:\SHELL.PRG
+run	Undercover Magazine Issue 20 (19xx)(TNB)[m Deus Ex].zip	A:\LOADER.PRG
+run	Undercover Siliconvention '97 Special (1997)(TNB)[m Deus Ex].zip	A:\UCM_SILI.PRG
+run	Universe 3 (1989)(Omnitrend Software)(Disk 1 of 2)(Game)[cr MCA].st	A:\UNIVERSE.PRG
+use	Virus (1988)(Braben, D.J.)[cr BCS].st	Virus (1988)(Braben, D.J.)[cr Replicants][t].st
+run	Vroom (1991)(Lankhor)[cr Vmax].st	A:\VROOM.PRG
+use	Xenon (1988)(Melbourne House)[cr Self][t].st	Xenon (1988)(Melbourne House).st
