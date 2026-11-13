@@ -6,14 +6,17 @@
 run	Arkanoid II - Revenge of Doh (1988)(Imagine)[cr Replicants].st	A:\DOH.PRG
 use	Batman - The Movie (1989)(Ocean)[cr Replicants].st	Batman - The Movie (1989)(Ocean)[cr Atari Legend][t].st
 use	Carrier Command (1988)(Rainbird)(M3)[cr Exceptions].st	Carrier Command (1988)(Rainbird)(M3)[cr Bladerunners].st
+use	Civilization (1993)(MicroProse)(Disk 1 of 4)(Disk 0)[cr ICS].st	Civilization (1993)(MicroProse)(Disk 1 of 4)(Disk 0).st
 run	Civilization v2.59beta (1993)(MicroProse)(Disk 1 of 2)[cr Vectronix].st	A:\GAME.PRG
 run	Cubase - Desktop Midi Recording System v2.0 (1989)(Steinberg)[cr MCA].st	A:\CUBASERD.PRG
 use	Degas Elite v1.0 (1986)(Batteries Included).st	Degas Elite v1.0 (1986)(Batteries Included)[a2].st
 run	Dragon's Lair II (1990)(Ready Soft)(Disk 1 of 7)(Disk 0)[cr Replicants][t].st	A:\__MAXI__.TOS
 run	Dragon's Lair III (1992)(Ready Soft)(Disk 1 of 8)(Disk 0)[cr ICS][t].st	A:\S_INT.PRG
 run	Future Wars - Time Travellers (1989)(Delphine)(Disk 1 of 2)[cr Delight].st	A:\FUTURE.PRG
+run	Future Wars - Time Travellers (1989)(Delphine)(Disk 1 of 2)[cr Medway Boys][f Tos 1.40].st	A:\FUTURE.PRG
 use	Goldrunner (1987)(Microdeal)[cr 42-Crew].st	Goldrunner (1987)(Microdeal)[cr Diskbuster].st
 run	HiSoft Basic v2.10 (1992)(HiSoft)(Disk 1 of 3).st	A:\HBASIC.PRG
+run	HiSoft Basic v2.10 (1992)(HiSoft)(Disk 1 of 3)[cr Elite].st	A:\HBASIC.PRG
 run	Hyper Paint v2.0 (1990)(Atari Corp.).st	A:\PAINT.PRG
 use	IC Draw v1.41 (1994-05-15)(Dr. Bob)(SW)[Falcon only].st	IC Draw v1.42 (1994-05-18)(Dr. Bob)(SW)[Falcon only].st
 run	IC Draw v1.42 (1994-05-18)(Dr. Bob)(SW)[Falcon only].st	A:\ICDRAW.PRG
@@ -38,6 +41,7 @@ run	Operation Stealth (1990)(U.S. Gold)(Disk 1 of 3)[cr Medway Boys].st	A:\STEAL
 use	Out Run (1987)(U.S. Gold)[cr BCS].st	Out Run (1987)(U.S. Gold)[cr Axel Follet].st
 use	Police Quest II (1989-01-16)(Sierra)(Disk 1 of 2)[cr SXE].st	Police Quest II (1989-01-16)(Sierra)(Disk 1 of 3)[cr MCA][m EMT].st
 run	R-Type II (1989)(Activision)[cr Elite][t +5].st	A:\R_TYPE2.PRG
+use	Rainbow Islands (1989)(Ocean)(Disk 1 of 2)[cr].st	Rainbow Islands (1989)(Ocean)(Disk 1 of 2)[cr Replicants].st
 use	Rampage (1986)(Activision)[cr Exceptions].st	Rampage (1986)(Activision).st
 use	Robocop (1989)(Ocean)[cr Medway Boys][t Blue Brothers].st	Robocop (1989)(Ocean)[cr Equinox][m Atariforce].st
 run	Robocop 3 (1991)(Ocean)(M3)(Disk 1 of 3)[cr ICS].st	A:\ROBOCOP.PRG
@@ -46,6 +50,8 @@ use	Silent Service (1986)(MicroProse).st	Silent Service (1986)(MicroProse).zip
 run	Sim City (1989)(Maxis)[cr Empire].st	A:\SIMCITY.PRG
 run	Space Quest - The Sarien Encounter v1.1a (1986)(Sierra)[cr Arthur Dent][m Blue Soft].st	A:\SPCQUEST.PRG
 run	Space Quest II - Vohaul's Revenge v2.0c (1987)(Sierra)[cr].st	A:\SIERRA.PRG
+run	Space Quest III - The Pirates of Pestulon v1.0q (1989)(Sierra)(Disk 1 of 3).st	A:\SIERRA.PRG
+run	Space Quest III - The Pirates of Pestulon v1.0q (1989)(Sierra)(Disk 1 of 3)[cr ST-Crackers].st	A:\SIERRA.PRG
 use	Speedball (1988)(Image Works)[cr MCA].st	Speedball (1988)(Image Works).st
 use	Speedball 2 - Brutal Deluxe (1990)(Image Works)[cr Replicants - ST Amigos].st	Speedball 2 - Brutal Deluxe (1990)(Image Works)[cr Empire][t].st
 use	Starglider (1987)(Rainbird).st	Starglider (1987)(Rainbird)[m EMT].st
