@@ -2,6 +2,8 @@
 ; testing them (the game check). A tab between the three things on a line:
 ;   run  <disk>  <program>   start this program on the disk
 ;   use  <disk>  <disk 2>    this version does not work: play that one
+;   sum  <disk>  <checksum>  what is on that disk: the same disk under
+;                            another file name gets its fixes too
 ;
 run	Arkanoid II - Revenge of Doh (1988)(Imagine)[cr Replicants].st	A:\DOH.PRG
 use	Batman - The Movie (1989)(Ocean)[cr Replicants].st	Batman - The Movie (1989)(Ocean)[cr Atari Legend][t].st
@@ -77,3 +79,101 @@ run	Universe 3 (1989)(Omnitrend Software)(Disk 1 of 2)(Game)[cr MCA].st	A:\UNIVE
 use	Virus (1988)(Braben, D.J.)[cr BCS].st	Virus (1988)(Braben, D.J.)[cr Replicants][t].st
 run	Vroom (1991)(Lankhor)[cr Vmax].st	A:\VROOM.PRG
 use	Xenon (1988)(Melbourne House)[cr Self][t].st	Xenon (1988)(Melbourne House).st
+sum	Arkanoid II - Revenge of Doh (1988)(Imagine)[cr Replicants].st	17ccde0a0d31
+sum	Batman - The Movie (1989)(Ocean)[cr Atari Legend][t].st	3c23d92e03fc
+sum	Batman - The Movie (1989)(Ocean)[cr Replicants].st	fbf07f9e17f6
+sum	Carrier Command (1988)(Rainbird)(M3)[cr Bladerunners].st	269e7850c373
+sum	Carrier Command (1988)(Rainbird)(M3)[cr Exceptions].st	cb9a60b30db0
+sum	Civilization (1993)(MicroProse)(Disk 1 of 4)(Disk 0).st	97eed020a337
+sum	Civilization (1993)(MicroProse)(Disk 1 of 4)(Disk 0)[cr ICS].st	87e4fc75ded7
+sum	Civilization v2.59beta (1993)(MicroProse)(Disk 1 of 2)[cr Vectronix].st	c7978d25c52f
+sum	Cubase - Desktop Midi Recording System v2.0 (1989)(Steinberg)[cr MCA].st	0289136cb5d3
+sum	Degas Elite v1.0 (1986)(Batteries Included).st	a8c3a0698da5
+sum	Degas Elite v1.0 (1986)(Batteries Included)[a2].st	eee8433b837b
+sum	Dragon's Lair II (1990)(Ready Soft)(Disk 1 of 7)(Disk 0)[cr Replicants][t].st	05ef9a0ac4be
+sum	Dragon's Lair III (1992)(Ready Soft)(Disk 1 of 8)(Disk 0)[cr ICS][t].st	47b0a6ca2c80
+sum	Future Wars - Time Travellers (1989)(Delphine)(Disk 1 of 2)[cr Delight].st	f768d29f9224
+sum	Future Wars - Time Travellers (1989)(Delphine)(Disk 1 of 2)[cr Medway Boys][f Tos 1.40].st	3e8cda4d8dcb
+sum	Goldrunner (1987)(Microdeal)[cr 42-Crew].st	dc4e22e20c98
+sum	Goldrunner (1987)(Microdeal)[cr Diskbuster].st	a68e2a08f94b
+sum	HiSoft Basic v2.10 (1992)(HiSoft)(Disk 1 of 3).st	0a42f5b85db9
+sum	HiSoft Basic v2.10 (1992)(HiSoft)(Disk 1 of 3)[cr Elite].st	fbd7afb1bc87
+sum	Hyper Paint v2.0 (1990)(Atari Corp.).st	925954f4c0a2
+sum	IC Draw v1.41 (1994-05-15)(Dr. Bob)(SW)[Falcon only].st	0942eb46be90
+sum	IC Draw v1.42 (1994-05-18)(Dr. Bob)(SW)[Falcon only].st	6841015d70f7
+sum	International Karate (1986)(System 3)[cr].st	fb97514398a5
+sum	International Karate + (1988)(System 3)[cr Replicants][m Atariforce].st	53e06ac3f417
+sum	King's Quest (1986)(Sierra)[a][one disk].st	1fbf6619ea81
+sum	King's Quest (1986)(Sierra)[cr Cracked].st	b63c82bcf4bb
+sum	Loom (1990)(LucasFilm Games)(Disk 1 of 3)[cr Medway Boys].st	418c1e9309cb
+sum	Lotus Esprit Turbo Challenge (1990)(Gremlin)[cr Replicants - ST Amigos].st	5540998f3625
+sum	Lotus Esprit Turbo Challenge (1990)(Gremlin)[cr].st	845e31318a1b
+sum	Maggie Issue 02 (1990-07-04)(Maggie).zip	f48014f7f86e
+sum	Maggie Issue 03 (1990-11-19)(Maggie)(Disk 1 of 2).zip	6f1615ab1fd7
+sum	Maggie Issue 05 (19xx)(Maggie).zip	8f93e4f05fb6
+sum	Maggie Issue 07 (19xx)(Maggie).zip	d71b2d6ef27e
+sum	Maggie Issue 09 (1992-05-18)(Maggie).zip	2b4b16ed18b6
+sum	Maggie Issue 12 (1993-09-13)(Maggie).zip	8ee012cb9ca0
+sum	Maggie Issue 13 (1994-01-13)(Maggie).zip	a0109fb4ecef
+sum	Maggie Issue 16 (1995-01-13)(Maggie).zip	6e3d6826d9de
+sum	Maggie Issue 17 (1995-04-29)(Maggie).zip	d186fd0fd110
+sum	Maggie Issue 18 (1995-06-01)(Maggie).zip	60bc1892e78c
+sum	Maggie Issue 22 (1997-01-18)(Maggie).zip	6bf2379ac0ae
+sum	Maggie Issue 22 (1997-01-18)(Maggie)[m Deus Ex].zip	34c6e60f71ac
+sum	Mega lo Mania (1991)(Image Works)[cr Medway Boys][t].st	4c3c910f90d9
+sum	Operation Stealth (1990)(U.S. Gold)(Disk 1 of 3)[cr Medway Boys].st	58dcfbaefbaf
+sum	Out Run (1987)(U.S. Gold)[cr Axel Follet].st	13f6ebcf1f67
+sum	Out Run (1987)(U.S. Gold)[cr BCS].st	aee1028c0879
+sum	Police Quest II (1989-01-16)(Sierra)(Disk 1 of 2)[cr SXE].st	075e3ecbc241
+sum	Police Quest II (1989-01-16)(Sierra)(Disk 1 of 3)[cr MCA][m EMT].st	fcc53d3cf7de
+sum	R-Type II (1989)(Activision)[cr Elite][t +5].st	f49db89905fc
+sum	Rainbow Islands (1989)(Ocean)(Disk 1 of 2)[cr Replicants].st	e6164931eba1
+sum	Rainbow Islands (1989)(Ocean)(Disk 1 of 2)[cr].st	417de4070dd0
+sum	Rampage (1986)(Activision).st	676633a290a5
+sum	Rampage (1986)(Activision)[cr Exceptions].st	59755efc2499
+sum	Robocop (1989)(Ocean)[cr Equinox][m Atariforce].st	99b14871a6bc
+sum	Robocop (1989)(Ocean)[cr Medway Boys][t Blue Brothers].st	6fb09089fd12
+sum	Robocop 3 (1991)(Ocean)(M3)(Disk 1 of 3)[cr ICS].st	11f0b9f308c4
+sum	Secret of Monkey Island, The (1991)(LucasFilm Games)(Disk 1 of 4)[cr Medway Boys].st	459eb8386361
+sum	Silent Service (1986)(MicroProse).zip	6ee72afff915
+sum	Sim City (1989)(Maxis)[cr Empire].st	39773898ac38
+sum	Space Quest - The Sarien Encounter v1.1a (1986)(Sierra)[cr Arthur Dent][m Blue Soft].st	e12dac336303
+sum	Space Quest II - Vohaul's Revenge v2.0c (1987)(Sierra)[cr].st	447fc29f9774
+sum	Space Quest III - The Pirates of Pestulon v1.0q (1989)(Sierra)(Disk 1 of 3).st	b6519721b95b
+sum	Space Quest III - The Pirates of Pestulon v1.0q (1989)(Sierra)(Disk 1 of 3)[cr ST-Crackers].st	b4013941b590
+sum	Speedball (1988)(Image Works).st	378ee96bbd0e
+sum	Speedball (1988)(Image Works)[cr MCA].st	1c78dc46e082
+sum	Speedball 2 - Brutal Deluxe (1990)(Image Works)[cr Empire][t].st	6932b2806b78
+sum	Speedball 2 - Brutal Deluxe (1990)(Image Works)[cr Replicants - ST Amigos].st	68fee4e1fa2a
+sum	Starglider (1987)(Rainbird).st	f16859a5ba43
+sum	Starglider (1987)(Rainbird)[m EMT].st	ba2741453277
+sum	Starglider 2 (1988)(Rainbird)[cr Union].st	5bb69148522d
+sum	Starglider 2 (1988)(Rainbird)[cr Union][m EMT].st	f39907efc771
+sum	STOS - The Game Creator v2.3 (1988)(Mandarin).st	f64759e9e0a3
+sum	STOS - The Game Creator v2.6 (19xx)(Mandarin).st	fddfb2a88301
+sum	Super Cars II (1991)(Gremlin)[cr Replicants - ST Amigos].st	d6ec50a62390
+sum	Super Cars II (1991)(Gremlin)[cr].st	7a397b5e7bb4
+sum	Super Sprint (1986)(Electric Dreams).st	a99fb4e61b56
+sum	Super Sprint (1986)(Electric Dreams)[cr].st	fb2822262abc
+sum	TCB Tracker (1990)(MPH)[cr Hemoroids].st	23dda4ff6302
+sum	TCB Tracker (1990)(MPH)[cr].st	55e88f2cbf83
+sum	Transbeauce II (1996-02-14)(Cybernetics)(STE)(FR)(en).st	389fc3579f91
+sum	Ultima V - Warriors of Destiny (1988)(Origin)(Disk 1 of 2)(Boot Disk)[cr Hotline].st	16990c4a06ef
+sum	Ultima V - Warriors of Destiny (1988)(Origin)(Disk 1 of 3)(Boot).st	af80b40eecfd
+sum	Undercover Magazine Issue 09 (1996)(TNB)[f][m Deus Ex].zip	2a541b9140b6
+sum	Undercover Magazine Issue 09 (1996)(TNB)[m Deus Ex].zip	026067c77dfb
+sum	Undercover Magazine Issue 10 (19xx)(TNB)[f][m Deus Ex].zip	ccd941a1229b
+sum	Undercover Magazine Issue 10 (19xx)(TNB)[m Deus Ex].zip	136a5ae344f0
+sum	Undercover Magazine Issue 12 (19xx)(TNB)[m Deus Ex].zip	5e39291d858f
+sum	Undercover Magazine Issue 14 (19xx)(TNB)[m Deus Ex].zip	9fce1a8275a7
+sum	Undercover Magazine Issue 15 (19xx)(TNB)[m Deus Ex].zip	29aba636bb25
+sum	Undercover Magazine Issue 17 (19xx)(TNB)[m Deus Ex].zip	f72dc2a329fd
+sum	Undercover Magazine Issue 18 (19xx)(TNB)[m Deus Ex].zip	ab7c7c83bace
+sum	Undercover Magazine Issue 20 (19xx)(TNB)[m Deus Ex].zip	a298355e33ab
+sum	Undercover Siliconvention '97 Special (1997)(TNB)[m Deus Ex].zip	0e29838d704c
+sum	Universe 3 (1989)(Omnitrend Software)(Disk 1 of 2)(Game)[cr MCA].st	9292669d2113
+sum	Virus (1988)(Braben, D.J.)[cr BCS].st	8f6c3f45bc67
+sum	Virus (1988)(Braben, D.J.)[cr Replicants][t].st	9f48d78b6411
+sum	Vroom (1991)(Lankhor)[cr Vmax].st	560803a2fba9
+sum	Xenon (1988)(Melbourne House).st	2595a29023c5
+sum	Xenon (1988)(Melbourne House)[cr Self][t].st	06c707024088
